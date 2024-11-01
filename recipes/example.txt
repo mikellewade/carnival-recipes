@@ -1,5 +1,6 @@
 Sarah's Pasta with Cauliflower and Walnuts
 ------------------------------------------
+<<<<<<< HEAD
 Time: 30 minutes
 
 Ingredients:
@@ -17,3 +18,30 @@ Extra-virgin olive oil
 8. Saute over medium to high heat until the vegetables are brown and tender.
 10. Add a few drops each of vinegar and lemon juice and the toasted walnuts.
 11. When the pasta is done, drain and add to the cauliflower, adding enough olive oil to coat the pasta thoroughly.
+=======
+
+Servings: 6
+
+4 cloves garlic
+1/2 lemon
+1 pinch red pepper flakes
+1/2 cup toasted walnuts
+Salt and pepper
+White wine vinegar
+4 ounces ricotta salata or feta cheese
+
+Directions:
+1. Put a large pot of water on to boil.
+2. Cut the cauliflower into small flowerets.
+5. Put the pasta on to cook.
+6. Saute the cauliflower in olive oil in a large saute pan.
+8. Saute over medium to high heat until the vegetables are brown and tender.
+9. Add the garlic and remove from the heat, tossing and stirring so the garlic doesn’t burn.
+11. When the pasta is done, drain and add to the cauliflower, adding enough olive oil to coat the pasta thoroughly.
+12. Toss together and serve, with the cheese crumbled over the dish.
+
+
+
+
+
+>>>>>>> 5979ba626ab4122d5152c4578d58d70cbd3f368e
